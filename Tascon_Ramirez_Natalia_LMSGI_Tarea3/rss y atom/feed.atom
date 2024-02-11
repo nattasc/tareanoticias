@@ -1,0 +1,59 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Noticias</title>
+    <link href="https://nattasc.github.io/tareanoticias" rel="self"/>
+    <link href="https://nattasc.github.io/tareanoticias" />
+    <updated>2024-02-10T08:00:00Z</updated>
+    <author>
+        <name>Portal de noticias</name>
+    </author>
+    <id>https://nattasc.github.io/tareanoticias</id>
+    
+    <entry>
+        <title>Canarias recibe nuevas embarcaciones con cerca de 450 migrantes a bordo en las últimas horas</title>
+        <link href="https://nattasc.github.io/tareanoticias/noticia1.html" />
+        <id>https://nattasc.github.io/tareanoticias/noticia1.html</id>
+        <updated>2024-02-10T08:10:00Z</updated>
+        <summary>Muchos de los migrantes, que arriesgan su vida en una peligrosa travesía, proceden de países como Senegal, que atraviesa una grave crisis política y económica.</summary>
+    </entry>
+    
+    <entry>
+        <title>Ayuso pierde una demanda contra el Grupo Quirón y pagará 30 millones por una deuda de 2014</title>
+        <link href="https://nattasc.github.io/tareanoticias/noticia2.html" />
+        <id>https://nattasc.github.io/tareanoticias/noticia2.html</id>
+        <updated>2024-02-10T08:14:00Z</updated>
+        <summary>La actual presidenta hereda un litigio por “discrepancias” en la prestación de servicio sanitarios prestados por el hospital Rey Juan Carlos de Móstoles, uno de los centros públicos de gestión privada.</summary>
+    </entry>
+    
+    <entry>
+        <title>Las dos ciudades españolas que se cuelan entre las 50 con mejor calidad de vida del mundo, según un estudio</title>
+        <link href="https://nattasc.github.io/tareanoticias/noticia3.html" />
+        <id>https://nattasc.github.io/tareanoticias/noticia3.html</id>
+        <updated>2024-02-10T08:16:00Z</updated>
+        <summary>Empresa encargada del análisis ha evaluado 450 ciudades de todo el mundo. Los resultados han sufrido notables cambios desde la última edición.</summary>
+    </entry>
+    
+    <entry>
+        <title>La periodista que preguntó a Rocío Jurado por su talla de sujetador desvela la desconocida verdad de aquella entrevista</title>
+        <link href="https://nattasc.github.io/tareanoticias/noticia4.html" />
+        <id>https://nattasc.github.io/tareanoticias/noticia4.html</id>
+        <updated>2024-01-10T08:20:00Z</updated>
+        <summary>Contundente respuesta que la cantante dio a Lourdes Lancho hace más de tres décadas pasó a la historia, pero ahora la presentadora ha revelado un dato desconocido.</summary>
+    </entry>
+    
+    <entry>
+        <title>Lluvias muy fuertes llegan a estas zonas de España: la AEMET emite una alerta</title>
+        <link href="nhttps://nattasc.github.io/tareanoticias/oticia5.html" />
+        <id>https://nattasc.github.io/tareanoticias/noticia5.html</id>
+        <updated>2024-01-11T08:00:00Z</updated>
+        <summary>AEMET emite una alerta sobre lluvias fuertes que llegarán a determinadas zonas de España</summary>
+    </entry>
+    
+    <entry>
+        <title>El humorista Kenny DeForest muere cinco días después de ser arrollado por un coche</title>
+        <link href="https://nattasc.github.io/tareanoticias/noticia6.html" />
+        <id>https://nattasc.github.io/tareanoticias/noticia6.html</id>
+        <updated>2024-02-09T08:00:00Z</updated>
+        <summary>Los médicos no pudieron salvarle</summary>
+    </entry>
+    
+</feed>

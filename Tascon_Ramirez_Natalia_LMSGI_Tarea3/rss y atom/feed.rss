@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias</title>
+        <link>https://nattasc.github.io/tareanoticias</link>
+        <description>Últimas noticias del portal de noticias</description>
+        
+        <item>
+            <title>Canarias recibe nuevas embarcaciones con cerca de 450 migrantes a bordo en las últimas horas</title>
+            <link>https://nattasc.github.io/tareanoticias/noticia1.html</link>
+            <description>Muchos de los migrantes, que arriesgan su vida en una peligrosa travesía, proceden de países como Senegal, que atraviesa una grave crisis política y económica.</description>
+        </item>
+        
+        <item>
+            <title>Ayuso pierde una demanda contra el Grupo Quirón y pagará 30 millones por una deuda de 2014</title>
+            <link>https://nattasc.github.io/tareanoticias/noticia2.html</link>
+            <description>La actual presidenta hereda un litigio por “discrepancias” en la prestación de servicio sanitarios prestados por el hospital Rey Juan Carlos de Móstoles, uno de los centros públicos de gestión privada.</description>
+        </item>
+        
+        <item>
+            <title>Las dos ciudades españolas que se cuelan entre las 50 con mejor calidad de vida del mundo, según un estudio</title>
+            <link>https://nattasc.github.io/tareanoticias/noticia3.html</link>
+            <description>Empresa encargada del análisis ha evaluado 450 ciudades de todo el mundo. Los resultados han sufrido notables cambios desde la última edición.</description>
+        </item>
+        
+        <item>
+            <title>La periodista que preguntó a Rocío Jurado por su talla de sujetador desvela la desconocida verdad de aquella entrevista</title>
+            <link>https://nattasc.github.io/tareanoticias/noticia4.html</link>
+            <description>Contundente respuesta que la cantante dio a Lourdes Lancho hace más de tres décadas pasó a la historia, pero ahora la presentadora ha revelado un dato desconocido.</description>
+        </item>
+        
+        <item>
+            <title>Lluvias muy fuertes llegan a estas zonas de España: la AEMET emite una alerta</title>
+            <link>https://nattasc.github.io/tareanoticias/noticia5.html</link>
+            <description>AEMET emite una alerta sobre lluvias fuertes que llegarán a determinadas zonas de España</description>
+        </item>
+        
+        <item>
+            <title>El humorista Kenny DeForest muere cinco días después de ser arrollado por un coche</title>
+            <link>https://nattasc.github.io/tareanoticias/noticia6.html</link>
+            <description>Los médicos no pudieron salvarle</description>
+        </item>
+        
+        <item>
+            <title>Las mejores actividades para disfrutar de la Navidad en Palma de la mano CaixaForum</title>
+            <link>https://nattasc.github.io/tareanoticias/noticia7.html</link>
+            <description>Programación especial incluye un espectáculo teatral, proyecciones, talleres y experiencias inmersivas</description>
+        </item>
+        
+        <item>
+            <title>Espectacular incendio de basura en Son Banya esta madrugada</title>
+            <link>https://nattasc.github.io/tareanoticias/noticia8.html</link>
+            <description>Gran columna de humo se ha desatado pasada la medianoche</description>
+        </item>
+        
+        <item>
+            <title>Media maratón de Formentera 2024: hoy es el último día para hacer la preinscripción</title>
+            <link>https://nattasc.github.io/tareanoticias/noticia9.html</link>
+            <description>Esta prueba y la 8 km Formentera se disputan el próximo 11 de mayo y tienen las plazas limitadas. En caso de haber más preinscritos que plazas disponibles, se realizará un sorteo ante notario</description>
+        </item>
+        
+    </channel>
+</rss>
